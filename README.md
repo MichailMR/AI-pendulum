@@ -9,7 +9,7 @@ The pendulum itself uses pymunk.py for physics and pygame for display
     
 sources for this project:
 
-[sources.txt](./sources.txt)
+[sources.txt](https://github.com/MichailMR/AI-pendulum/blob/master/Sources.txt)
 
 [pymunk website](http://www.pymunk.org/en/latest/index.html)
 
