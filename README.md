@@ -5,7 +5,7 @@ Also my first git repository
 
 init the AI_agent script to start the AI
 
-I used torch.py for data training; based on an AI agent from a snake game,
+I used torch.py for data training; based on an AI agent from a snake game
 and matplotlib.pyplot / IPython.display for plotting the learning data.
 The pendulum itself uses pymunk.py for physics and pygame for display
     
