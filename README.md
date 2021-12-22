@@ -1,5 +1,6 @@
 # AI-pendulum
 My first AI script which tries to hold a pendulum upright or, in a later stage, multiple pendulums
+
 Also my first git repository
 
 init the AI_agent script to start the AI
